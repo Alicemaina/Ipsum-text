@@ -1,0 +1,13 @@
+ h2.intro {
+        width: 50%;
+        font-style: italic;
+      }
+p.intro{
+    
+}
+img.intro{
+    border: 2px;
+    float: right;
+    margin: auto;
+    padding: 2px;
+}
