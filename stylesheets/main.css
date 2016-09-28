@@ -1,8 +1,24 @@
- h2.intro {
-        width: 50%;
-        font-style: italic;
+body{
+    background-color: darkgray;
+    margin: auto;
+    padding: inherit;
+}
+.header {
+    width: 50px;
+    height: auto;
+    border-left: 4px solid;
+    border-right: 5px solid;
+    overflow: auto;
+    margin: auto;
+    padding: inherit;
+    background-color: aqua;
+}
+h2 {
+        width: 40%;
+        font-family: cursive;
+    font-feature-settings: normal;
+    font-style: oblique;
       }
-p.intro{
     
 }
 img.intro{
